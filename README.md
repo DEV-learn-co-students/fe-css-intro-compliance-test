@@ -1,9 +1,4 @@
----
-language: none
-tags: css, style, syntax, selectors
-type: intro
-resources: 0
----
+
 
 ## CSS Fundamentals
 
