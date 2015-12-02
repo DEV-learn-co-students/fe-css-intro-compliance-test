@@ -22,3 +22,4 @@ In this unit we will cover the fundamentals of CSS. Including its syntax, select
   - Font
 - Normalize
 - Modernizr
+<a href='https://learn.co/lessons/fe-css-intro' data-visibility='hidden'>View this lesson on Learn.co</a>
