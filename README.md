@@ -2,9 +2,9 @@
 
 ## CSS Fundamentals
 
-In this unit we will cover the fundamentals of CSS. Including its syntax, selectors, font properties, color, style normalization, and authority.
+In this unit we will cover the fundamentals of CSS. This include its syntax, selectors, font properties, color, style normalization, and authority.
 
-## Topics Covered
+## What's Covered in this Unit
 
 - CSS Introduction
   - Syntax
